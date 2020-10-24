@@ -1,3 +1,7 @@
 ﻿  main.c
-D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(55,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(59,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(87,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(117,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(135,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(136,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
   1_변수및_입출력.vcxproj -> D:\Git\C\1_변수및_입출력\Debug\1_변수및_입출력.exe

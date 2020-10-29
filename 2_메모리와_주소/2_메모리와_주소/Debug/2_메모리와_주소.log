@@ -1,6 +1,6 @@
 ﻿  main.c
-D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(32,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(49,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(50,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(52,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(38,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(47,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(49,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Git\C\2_메모리와_주소\2_메모리와_주소\main.c(51,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
   2_메모리와_주소.vcxproj -> D:\Git\C\2_메모리와_주소\Debug\2_메모리와_주소.exe

@@ -1,7 +1,10 @@
 ﻿  main.c
-D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(59,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(87,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(117,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(135,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
-D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(136,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(62,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(90,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(120,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(165,9): warning C4068: 알 수 없는 pragma 'endregion터'
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(189,25): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(189,25): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(138,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+D:\Git\C\1_변수및_입출력\1_변수및_입출력\main.c(139,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
   1_변수및_입출력.vcxproj -> D:\Git\C\1_변수및_입출력\Debug\1_변수및_입출력.exe
